@@ -1,0 +1,16 @@
+{
+  "name": "tmdbtomovary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tvtime-to-ryot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "csv-parse": "^5.5.2",
+    "node-themoviedb": "^0.2.8"
+  }
+}
