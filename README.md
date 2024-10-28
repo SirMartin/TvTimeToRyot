@@ -15,7 +15,7 @@ So this is a small script to automatize the export of my ratings from [TvTime](h
 ## Requirements
 
 - You need an export from TvTime.
-- You need an api key from [The Movie Database](https://www.themoviedb.org/) in order to match the results from the TvTime's CSVs to Ryot.
+- You need an api key from [The Movie Database](https://www.themoviedb.org/) in order to match the results from the TvTime's CSVs to Ryot. [How to get a key](https://developers.themoviedb.org/3/getting-started/introduction)
 - You need an instance of [Ryot](https://github.com/IgnisDa/ryot)
 
 ### Get your Data from TV Time
@@ -48,6 +48,10 @@ At the top of the script, you can find some strings with the text **FILL_WITH_YO
 - `tmdb_api_key`: here you need to take the api key from your profile in the movie database.
 
 ![The Movie Database Api Key](images/tmdb_api_key.png)
+
+You need to copy the one labeled as **API Key Auth**
+![image](https://github.com/user-attachments/assets/16139a26-594a-4978-8517-f28dedce172e)
+
 
 ## Run
 
